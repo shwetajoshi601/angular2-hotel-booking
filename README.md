@@ -4,9 +4,13 @@ A simple hotel booking application built by leveraging the major features of Ang
 This application uses static dummy data. A responsive UI has been built using Bootstrap.
 
 ## Prerequisites
-**1. Angular CLI**
+
+**1. Angular CLI:**
+
 Make sure you have Angular CLI installed
+
 **2. Node.js**
+
 Install Node.js version 6.x and above.
 To check the version, use the fol. command in your command prompt.
   ```
