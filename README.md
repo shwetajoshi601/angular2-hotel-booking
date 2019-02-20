@@ -31,7 +31,7 @@ Follow the below steps to run the application:
   ```
   ng serve
   ```
-4. Open your browser and hit the URL: http://localhost:8080
+4. Open your browser and hit the URL: http://localhost:4200
 You will see the landing page.
 
 ## To Do
